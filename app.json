@@ -23,7 +23,7 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
-        "STRING": {
+        "SESSION_STRING": {
             "description": "Pyrogram string session.",
             "value": ""
         }
