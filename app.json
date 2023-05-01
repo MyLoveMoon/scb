@@ -7,7 +7,7 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/zaherkhanbhai/Scb",
+    "repository": "https://github.com/MyLoveMoon/scb",
     "website": "",
     "success_url": "https://t.me/Lmcbots",
     "env": {
@@ -23,16 +23,8 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
-        "SESSION": {
+        "STRING": {
             "description": "Pyrogram string session.",
-            "value": ""
-        },
-        "AUTH": {
-            "description": "User ID of Bot owner.",
-            "value": ""
-        },
-        "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
             "value": ""
         }
     },
